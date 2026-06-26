@@ -15,6 +15,12 @@ A free mixin-based injection hacked-client for Minecraft using Minecraft Forge, 
 ## Notes
 Current [Legacy](https://github.com/CCBlueX/LiquidBounce/tree/legacy) development is maintained by the community.
 
+## Download
+You can download the latest build from [GitHub Actions](https://github.com/post1114/QMB/actions):
+1. Click on the **latest successful workflow run**.
+2. Scroll down to the **Artifacts** section.
+3. Download `build-artifacts` which contains the compiled `.jar` file.
+
 ## Issues
 If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/CCBlueX/LiquidBounce/issues).
 
