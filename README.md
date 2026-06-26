@@ -9,7 +9,7 @@ Based on [LiquidBounce Legacy](https://github.com/CCBlueX/LiquidBounce/tree/lega
 </div>
 
 ## Notes
-QuickMarcoBounce is a fork of LiquidBounce Legacy. Current [Legacy](https://github.com/CCBlueX/LiquidBounce/tree/legacy) development is maintained by the community.
+QuickMarcoBounce is a fork of LiquidBounce Legacy. Current [Legacy](https://github.com/CCBlueX/LiquidBounce/tree/legacy) development is updated infrequently.
 
 ## Download
 You can download the latest build from [GitHub Actions](https://github.com/post1114/QMB/actions):
